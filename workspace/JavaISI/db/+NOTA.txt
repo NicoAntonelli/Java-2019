@@ -1,0 +1,5 @@
+No usé estas DB en mi PC, creé las mías.
+No uso "ID", sino que uso como PK: tipo_dni y nro_dni.
+Los cambios también se realizaron en el código de Capas, y otros.
+
+	-NICO
